@@ -1,11 +1,3 @@
-#### Group 2 Tuesday 1 PM R File #####
-
-#Team Contact | Ban Lanzona (24014946)
-#Wendi Luo (22553928)
-#Yingli Du (23906452)
-#Ameena Firdose  (23989328)
-#Jinyuan Hu (23054098)
-
 #______________________________________________________________________________________________________________#
 
 #Cleaning R
